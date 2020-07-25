@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<p>Hi, I'm Astri Musidah</p>
+<p><a href="https://www.instagram.com/astrimsdh/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+</p>
 <!--
 **astrimsdh/astrimsdh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
